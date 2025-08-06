@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️#️⃣️ The Bliss Browser Literate CoffeeScript language support module, allowing Literate CoffeeScript programs to be written in and ran within the browser.
